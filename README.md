@@ -33,4 +33,6 @@ In this project, I have created a machine learning pipeline to solve the busines
 - go to the repo folder
 - Install requirements
     pip3 install -r requirements.txt
+- load the notebook "projectby_pcb.ipynb" and run it. 
 ```
+
