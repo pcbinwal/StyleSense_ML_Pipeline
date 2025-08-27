@@ -8,10 +8,13 @@
  * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
 
  ### Project Motivation
-In this project, I have created a machine learning pipeline to solve the business problem for StyleSense. 
+In this project, I have created a machine learning pipeline to solve the business problem for StyleSense. Pipeline consists of all preprocessing and model training tasks. 
 
 ### File Descriptions
 README.md 
+requirements.txt
+data 
+     -- reviews.csv 
 
 ### Components
 
