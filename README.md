@@ -12,10 +12,11 @@ In this project, I have created a machine learning pipeline to solve the busines
 
 ### File Descriptions
 ```
--- README.md     
--- requirements.txt    
--- data    
-    -- reviews.csv     
+--README.md     
+--requirements.txt    
+--data    
+    --reviews.csv     
+-- projectby_pcb.ipynb
 ```
 ### Components
 
