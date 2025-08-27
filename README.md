@@ -1,9 +1,9 @@
 # StyleSense MachineLearning Pipeline Project
 
-### Project Introduction 
+## Project Introduction 
 In this project, I have created a machine learning pipeline to solve the business problem for StyleSense. Pipeline consists of all preprocessing and model training tasks. 
 
-### File Descriptions
+## File Descriptions
 ```
 -.gitignore
 -README.md  
@@ -13,7 +13,7 @@ In this project, I have created a machine learning pipeline to solve the busines
     -reviews.csv     
 -projectby_pcb.ipynb
 ```
-### Installation
+## Installation
 ```
 - Install python locally (If not already done)
 - Create the new virtual environment (If not already done)
@@ -29,7 +29,7 @@ In this project, I have created a machine learning pipeline to solve the busines
 - load the notebook "projectby_pcb.ipynb" and run it. 
 ```
 
-### Author Acknowledgements and References
+## Author Acknowledgements and References
 **Author:** Prakash Binwal  
 **Acknowledgemants:** Udacity Course, Other datascience trainings and references  
 **References:** https://github.com/udacity/dsnd-pipelines-project
