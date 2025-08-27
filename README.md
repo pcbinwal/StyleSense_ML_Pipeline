@@ -20,6 +20,15 @@ In this project, I have created a machine learning pipeline to solve the busines
     -reviews.csv     
 -projectby_pcb.ipynb
 ```
-### Components
-
-
+### Installation
+- Install python locally (If not already done)
+- Create the new virtual environment (If not already done)
+    python3 -m venv .env
+- Activate the VENV (If not already done)
+    source .env/bin/activate
+- Install git CLI (If not already done)
+- clone the repository
+    git clone https://github.com/pcbinwal/StyleSense_ML_Pipeline.git
+- go to the repo folder
+- Install requirements
+    pip3 install -r requirements.txt
