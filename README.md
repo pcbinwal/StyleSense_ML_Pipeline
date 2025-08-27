@@ -21,6 +21,7 @@ In this project, I have created a machine learning pipeline to solve the busines
 -projectby_pcb.ipynb
 ```
 ### Installation
+```
 - Install python locally (If not already done)
 - Create the new virtual environment (If not already done)
     python3 -m venv .env
@@ -32,3 +33,4 @@ In this project, I have created a machine learning pipeline to solve the busines
 - go to the repo folder
 - Install requirements
     pip3 install -r requirements.txt
+```
