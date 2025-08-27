@@ -36,3 +36,9 @@ In this project, I have created a machine learning pipeline to solve the busines
 - load the notebook "projectby_pcb.ipynb" and run it. 
 ```
 
+### Author, Acknowledgements and References
+**Author:** Prakash Binwal
+**Acknowledgemants:** Udacity Course, Other datascience trainings and references
+**References:** https://github.com/udacity/dsnd-pipelines-project
+
+
