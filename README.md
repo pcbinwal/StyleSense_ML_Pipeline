@@ -12,7 +12,9 @@ In this project, I have created a machine learning pipeline to solve the busines
 
 ### File Descriptions
 ```
---README.md     
+--.gitignore
+--README.md  
+--LICENSE   
 --requirements.txt    
 --data    
     --reviews.csv     
