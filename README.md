@@ -12,13 +12,13 @@ In this project, I have created a machine learning pipeline to solve the busines
 
 ### File Descriptions
 ```
---.gitignore
---README.md  
---LICENSE   
---requirements.txt    
---data    
-    --reviews.csv     
---projectby_pcb.ipynb
+-.gitignore
+-README.md  
+-LICENSE   
+-requirements.txt    
+-data    
+    -reviews.csv     
+-projectby_pcb.ipynb
 ```
 ### Components
 
